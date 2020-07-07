@@ -1,7 +1,5 @@
 package main
 
-//import "fmt"
-
 //Generate a netflow packet w/ user-defined record count
 func GenerateSpike() Netflow {
 	data := new(Netflow)
